@@ -1,0 +1,17 @@
+baseURL = "http://orangemn6.netlify.app/blog/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "journal"
+[params]
+  description = "Blog meta description."
+  githubUsername = "orangemn6"
+  twitterUsername = "orangemn6"
+  tagline = "The BLOG."
+[params.work]
+  jobTitle = "occupation"
+  company = "the company"
+  companyUrl = "https://the.company.url/"
+[params.gpg]
+  key = "0x1111111111111111"
+  fingerprint = "0000 0000 0000 0000 0000  0000 0000 0000 0000 0000"
+  link = "https://pgp.mit.edu/pks/lookup?op=get&search=0x1111111111111111"
