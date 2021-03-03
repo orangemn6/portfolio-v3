@@ -1186,3 +1186,14 @@ select {
     max-width: 100rem;
     margin: 10rem auto
 }
+
+@media screen and (max-width: 1020px) {
+  #container, #header, #content, #footer {
+    float: none;
+    width: auto;
+  }
+ #subtitle, #share, #slider, #sidebar{
+    display:none;
+  }
+  p{ font-size: 2em; }
+}
