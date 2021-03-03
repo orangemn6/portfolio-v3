@@ -432,6 +432,11 @@ body {
     color: #fff
 }
 
+mark {
+    color: #fff;
+    background-color: rgb(255, 60, 0);
+}
+
 ::selection {
     background-color: rgb(255, 60, 0);
     color: #fff
@@ -480,7 +485,8 @@ select {
 
 .heading-secondary {
     font-size: 3.6rem;
-    color: #81f;
+    color: #fff;
+    background-color: rgb(255, 60, 0);
     position: relative;
     display: inline-block;
     margin-bottom: 3rem
@@ -493,7 +499,7 @@ select {
     position: absolute;
     bottom: -1rem;
     right: 0;
-    background-image: -webkit-gradient(linear, left top, right top, from(#81f), color-stop(#60c), to(#81f));
+    background-image: -webkit-gradient(linear, left top, right top, from(rgb(255, 30, 0)), color-stop(rgb(255, 51, 0)), to(rgb(247, 49, 0)));
     background-image: linear-gradient(to right, rgb(255, 84, 17), rgb(255, 72, 0), rgb(255, 72, 0));
     border-radius: 1rem;
     -webkit-box-shadow: 0 0.5rem 1rem rgba(255, 60, 0, 0.6);
@@ -502,7 +508,7 @@ select {
 
 .heading-tertiary {
     font-size: 3rem;
-    color: #60c
+    color: rgb(255, 60, 0)
 }
 
 @media (prefers-color-scheme: dark) {
@@ -914,7 +920,7 @@ select {
 .nav__item-icon {
     height: 2rem;
     width: 2rem;
-    fill: #60c
+    fill: rgb(255, 60, 0)
 }
 
 @media (prefers-color-scheme: dark) {
