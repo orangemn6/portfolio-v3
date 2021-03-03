@@ -1,7 +1,7 @@
 violetblue:
-  - color-primary-main: #60c;
-  - color-primary-light: #81f;
-  - color-primary-dark: #408;
+  - color-primary-main: #ff3f14;
+  - color-primary-light: #ff3f14;
+  - color-primary-dark: #ff3f14;
 
 teal:
   - color-secondary-main: #007363;
