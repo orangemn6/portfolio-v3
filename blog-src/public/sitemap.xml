@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://orangemn6.netlify.app/blog/public/</loc>
+    <lastmod>2021-03-03T18:10:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://orangemn6.netlify.app/blog/public/post/</loc>
+    <lastmod>2021-03-03T18:10:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://orangemn6.netlify.app/blog/public/post/test/</loc>
+    <lastmod>2021-03-03T18:10:42-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://orangemn6.netlify.app/blog/public/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://orangemn6.netlify.app/blog/public/tags/</loc>
+  </url>
+  
+</urlset>
