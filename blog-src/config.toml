@@ -1,6 +1,6 @@
 baseURL = "http://orangemn6.netlify.app/blog/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Orangemn6's blog"
 theme = "journal"
 [params]
   description = "Blog meta description."
@@ -8,8 +8,8 @@ theme = "journal"
   twitterUsername = "orangemn6"
   tagline = "The BLOG."
 [params.work]
-  jobTitle = "occupation"
-  company = "the company"
+  jobTitle = "web developer"
+  company = "night"
   companyUrl = "https://the.company.url/"
 [params.gpg]
   key = "0x1111111111111111"
