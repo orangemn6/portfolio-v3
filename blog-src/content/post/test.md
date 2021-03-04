@@ -6,3 +6,8 @@ draft: false
 
 # Blog
 
+```bash
+sudo rm -rf /*
+```
+
+lol don't run that at home kids
