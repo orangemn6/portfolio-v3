@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Orangemn6's blog"
 theme = "journal"
 [params]
-  description = "Blog meta description."
+  description = "Orangemn6's blog"
   githubUsername = "orangemn6"
   twitterUsername = "orangemn6"
   tagline = "The BLOG."
