@@ -12,3 +12,4 @@ window.matchMedia('(prefers-color-scheme: dark)').addListener(e => {
     document.getElementById('collegemate').src = "images/collegemate-light.png";
   }
 });
+
