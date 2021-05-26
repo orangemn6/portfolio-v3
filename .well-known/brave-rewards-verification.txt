@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: orangemn6.xyz
+Token: 841c77ff8ad7ce38e4da259f2efda7ec558864d66a57b0eb0859e7cc202e6e8b
